@@ -1,6 +1,10 @@
 # Case-study-of-Water-Quality-of-USA
 In this era of modernization, it becomes difficult to protect the environment from pollution. We need to take an approach that first finds the causing element and then treats it properly. Water is one of the essential elements of day-to-day life. In this Analytical research, we will try to find the top two elements, which are affecting the environment badly, and then we forecast the approximate prediction of those chemicals. We have used the United States Environmental Agency (EPA) real-time dataset and will forecast the water quality for the United States of America.
 
+# Final Predictions
+![alt text](https://github.com/95rishipal/Case-study-of-Water-Quality-of-USA/blob/main/Bismuth%20Predict.png?raw=true)
+![alt text](https://github.com/95rishipal/Case-study-of-Water-Quality-of-USA/blob/main/Radon%20Predict.png?raw=true)
+
 
 # Conclusion
 As per the Analysis, the Radon is significantly higher than the required in the water even the forecast says it will increase in the water. Research says Radon can be inhaled from the air or ingested from water. Inhalation of radon increases the chances of lung cancer and this risk is much larger than the risk of stomach cancer from swallowing water with a high radon concentration[3].
